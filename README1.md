@@ -10,10 +10,10 @@ King of Racing adalah game **Action–Sports racing 1v1** dengan sistem **skill*
 Action – Sports (1v1 Competitive Racing)
 
 ### 👥 Target Audiens
-Remaja & Pemuda usia **15–25 tahun**
+Remaja & Pemuda usia **13+**
 
 ### 💻 Platform Rilis
-- **PC (Windows / Steam)**
+- **PC (Windows)**
 
 ---
 
@@ -33,11 +33,11 @@ Remaja & Pemuda usia **15–25 tahun**
 ### 🕹️ Gameplay Overview
 
 - Kontrol menggunakan **W A S D**.
-- Race berlangsung di jalan raya futuristik.
+- Race berlangsung di jalan raya
 - Pemain memperoleh poin dari:
   - Kecepatan
   - Trick
-  - Manuver menghindari obstacle
+  - Manuver menghindari tantangan
   - Drift dan turbo timing
 - Kemenangan membuka chapter & skill baru.
 - Kekalahan → replay stage.
@@ -68,14 +68,14 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 
 ### 🖼️ Visual Style
 
-- **Tema:** Futuristic Neon City
+- **Tema:** kota malam
 - **Art Direction:** Semi-realistic stylized
 - **Dominasi warna:** Biru, ungu neon, cyan
 
 #### Environment
-- Gedung tinggi holografik
-- Jalan raya futuristik
-- Lampu neon & billboard LED
+- Gedung tinggi 
+- Jalan raya 
+- Lampu jalanan kota & billboard LED
 
 #### Character Design
 | Karakter | Deskripsi |
@@ -90,7 +90,7 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 
 ---
 
-### 🔊 Audio Direction
+### Audio Direction
 
 - **Musik:** EDM, Synthwave, Cyberpunk Electro, Drum & Bass
 - **Sound Design:**
@@ -101,7 +101,7 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 
 ---
 
-## 🧩 Mekanik Kontrol
+## Mekanik Kontrol
 
 | Input | Fungsi |
 |-------|--------|
@@ -109,12 +109,10 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 | S | Mundur |
 | A | Kiri |
 | D | Kanan |
-| Shift | Boost |
-| Space | Jump |
 
 ---
 
-## 🛠️ Tools & Software
+## Tools & Software
 
 | Kategori | Tools | Fungsi |
 |----------|-------|--------|
@@ -125,7 +123,7 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 
 ---
 
-## 🧬 Komponen Sistem
+## Komponen Sistem
 
 | Komponen | Fungsi |
 |---------|--------|
@@ -138,32 +136,30 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 
 ---
 
-## 📐 Dokumen Teknis
+## Dokumen Teknis
 
 - Technical Design Document (TDD)
 - UML Class Diagram
-- Game Flowchart Design *(coming soon)*
+- Game Flowchart Design 
 
 ---
 
-## 🚧 Status
+## Status
 
 > **Stage:** Concept + Pre-production  
 > Dokumentasi, prototyping mekanik dasar, & storyboard naratif.
 
 ---
 
-## ✨ Credits
+## Credits
 
 | Role | Member |
 |------|--------|
-| Project Manager | — |
-| Game Designer | — |
-| Programmer | — |
-| Artist & UI/UX | — |
-| Sound Designer | — |
+| Project Manager | Ghira Jilan Zhafira |
+| Game Designer | Zharira Hendhis Zahran |
+| Programmer | Cinema Zaidan Zidna Fann |
+| Artist & UI/UX | Hauzan Mahfudz |
 
-(*Isi boleh disesuaikan setelah tim lengkap*)
 
 ---
 
