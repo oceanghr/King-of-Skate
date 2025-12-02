@@ -1,25 +1,25 @@
-# 🎮 King of Racing
+# King of Racing
 
 King of Racing adalah game **Action–Sports racing 1v1** dengan sistem **skill**, **leveling**, dan **upgrade customization**. Game ini menggabungkan mekanik balap cepat dengan narasi yang emosional tentang perjalanan, ambisi, dan keberanian untuk menghadapi masa lalu.
 
 ---
 
-## 📌 1. Informasi Umum
+## 1. Informasi Umum
 
-### 🏷️ Genre
+### Genre
 Action – Sports (1v1 Competitive Racing)
 
-### 👥 Target Audiens
+### Target Audiens
 Remaja & Pemuda usia **13+**
 
-### 💻 Platform Rilis
+### Platform Rilis
 - **PC (Windows)**
 
 ---
 
-## ⚙️ 2. Core Mechanics & Gameplay
+## 2. Core Mechanics & Gameplay
 
-### 🎯 Core Mechanics
+### Core Mechanics
 
 | Fitur | Deskripsi |
 |-------|-----------|
@@ -30,7 +30,7 @@ Remaja & Pemuda usia **13+**
 | **Story Progression** | Setiap kemenangan membuka chapter baru hingga melawan boss final. |
 | **Lobby & Fair Start** | Sistem memastikan fairness saat race dimulai. |
 
-### 🕹️ Gameplay Overview
+### Gameplay Overview
 
 - Kontrol menggunakan **W A S D**.
 - Race berlangsung di jalan raya
@@ -45,28 +45,28 @@ Remaja & Pemuda usia **13+**
 
 ---
 
-## 📖 3. Story / Narrative
+## 3. Story / Narrative
 
-### ✨ Premis
+### Premis
 Cecep (40 tahun) pernah mencintai balapan, namun trauma kecelakaan masa muda membuatnya meninggalkan dunia itu. Saat pindah rumah, ia kembali menemukan mobil lamanya—dan sejarah mulai terulang.
 
-### 🔥 Konflik
+### Konflik
 Cecep ingin membuang mobil itu, tetapi **Ojan**, pemuda pendiam, meminta mesinnya.
 
-### 🚗 Perkembangan
+### Perkembangan
 Tanpa sepengetahuan Cecep, Ojan memakai engine itu untuk bertarung melawan pembalap terhebat kota—membangkitkan sisi muda Cecep.
 
-### ⚔️ Klimaks
+### Klimaks
 Engine rusak—membangkitkan rasa penyesalan dalam diri Cecep.
 
-### 🕊️ Resolusi
+### Resolusi
 Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 
 ---
 
-## 🎨 4. Visual Style & Audio
+## 4. Visual Style & Audio
 
-### 🖼️ Visual Style
+### Visual Style
 
 - **Tema:** kota malam
 - **Art Direction:** Semi-realistic stylized
@@ -87,17 +87,6 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 #### Cars & UI
 - Mobil dengan efek speed trail, turbo sparks, aura saat upgrade.
 - UI modern, bold, kompetitif.
-
----
-
-### Audio Direction
-
-- **Musik:** EDM, Synthwave, Cyberpunk Electro, Drum & Bass
-- **Sound Design:**
-  - Turbo whistle **(PSHHH)**
-  - Cyber collision sparks
-  - Neon UI interaction
-  - Ambient city sound (drone, NPC cars, AI pedestrians)
 
 ---
 
@@ -133,14 +122,6 @@ Cecep akhirnya berdamai dengan masa lalu dan kembali mengejar impiannya.
 | Audio Manager | Manajemen efek suara & musik |
 | UI System | Subtitle, score, HUD |
 | Scene Manager | Loading & transisi scene |
-
----
-
-## Dokumen Teknis
-
-- Technical Design Document (TDD)
-- UML Class Diagram
-- Game Flowchart Design 
 
 ---
 
