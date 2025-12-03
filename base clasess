@@ -1,0 +1,73 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class PrometeoCarController : MonoBehaviour
+{
+    // ===== CAR SETTINGS =====
+    public int maxSpeed;
+    public int maxReverseSpeed;
+    public int accelerationMultiplier;
+    public int maxSteeringAngle;
+    public float steeringSpeed;
+    public int brakeForce;
+    public int decelerationMultiplier;
+    public int handbrakeDriftMultiplier;
+    public Vector3 bodyMassCenter;
+
+    // ===== WHEELS =====
+    public GameObject frontLeftMesh;
+    public WheelCollider frontLeftCollider;
+    public GameObject frontRightMesh;
+    public WheelCollider frontRightCollider;
+    public GameObject rearLeftMesh;
+    public WheelCollider rearLeftCollider;
+    public GameObject rearRightMesh;
+    public WheelCollider rearRightCollider;
+
+    // ===== UI =====
+    public bool useUI;
+    public Text carSpeedText;
+
+    // ===== AUDIO =====
+    public bool useSounds;
+    public AudioSource carEngineSound;
+    public AudioSource tireScreechSound;
+
+    // ===== CONTROL FLAGS =====
+    public float carSpeed;
+    public bool isDrifting;
+    public bool isTractionLocked;
+
+    Rigidbody carRigidbody;
+    
+    void Start()
+    {
+        // Setup components and initial values here
+    }
+
+    void Update()
+    {
+        // Main control logic input & updates
+        HandleInput();
+        AnimateWheelMeshes();
+    }
+
+    // ===== CONTROL METHODS =====
+    void HandleInput(){}
+    void GoForward(){}
+    void GoReverse(){}
+    void TurnLeft(){}
+    void TurnRight(){}
+    void Handbrake(){}
+    void ResetSteeringAngle(){}
+    void RecoverTraction(){}
+    void DecelerateCar(){}
+    void ThrottleOff(){}
+
+    // ===== WHEELS/PHYSICS =====
+    void AnimateWheelMeshes(){}
+
+    // ===== UI & AUDIO =====
+    void CarSpeedUI(){}
+    void CarSounds(){}
+}
